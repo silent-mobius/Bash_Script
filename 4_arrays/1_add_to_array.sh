@@ -7,4 +7,4 @@ Fruits+=('Watermelon')                  # Also Push
 
 Fruits=("${Fruits[@]}")                 # Duplicate
 Fruits=("${Fruits[@]}" "${Veggies[@]}") # Concatenate
-lines=(`cat "logfile"`)                 # Read from file
+lines=($(cat "logfile"))                 # Read from file

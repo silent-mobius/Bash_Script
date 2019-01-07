@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
 
-unset Fruits[2]                         # Remove one item from array
+Fruits=(apple watermelon melon orange banana papaya)
+
+echo ${Fruits[@]}
+
+echo "removing arraya";sleep 2
+
 unset Fruits							# Remove whole arrya
+
+echo ${Fruits[@]}
