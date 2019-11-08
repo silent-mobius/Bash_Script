@@ -1,4 +1,4 @@
-##Expansions and substitutions
+## Expansions and substitutions
 
 
 Introduction to expansions and substitutions

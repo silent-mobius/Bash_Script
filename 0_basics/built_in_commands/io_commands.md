@@ -1,4 +1,4 @@
-##I/O
+## I/O
 Commands for reading/parsing input, or producing/formatting output of standard streams. 	Alt 	Type
 coproc	Co-processes: Run a compound command in the background with async I/O.	- 	keyword
 echo	Create output from arguments.	- 	builtin

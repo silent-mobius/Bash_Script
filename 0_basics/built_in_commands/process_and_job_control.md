@@ -1,4 +1,4 @@
-##Process and Job control
+## Process and Job control
 Commands related to jobs, signals, process groups, subshells. 	Alt 	Type
 exec 	Replace the current shell process or set redirections. 	- 	special builtin
 exit 	Exit the shell. 	- 	special builtin
