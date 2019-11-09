@@ -1,6 +1,6 @@
 ## Control flow and data processing
 Commands that operate on data and/or affect control flow. 
-Cmd |	Alt | Type
+Command |	Alt | Type
 --- | ---- | ----
 colon |	"true" null command. 	true |	special builtin
 dot |	Source external files. 	source 	special builtin
