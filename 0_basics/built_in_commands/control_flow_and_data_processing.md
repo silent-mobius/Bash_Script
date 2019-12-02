@@ -10,4 +10,4 @@ false | Fail at doing nothing.  |   builtin
 continue / break | continue with or break out of loops. | special builtin
 let |   Arithmetic evaluation simple command. | builtin
 return |    Return from a function with a specified exit status. | special builtin
-[ |	The classic test simple command.    test |  builtin
+[ | The classic test simple command.    test |  builtin
