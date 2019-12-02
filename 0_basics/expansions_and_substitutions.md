@@ -1,7 +1,5 @@
 # Expansions and substitutions
 
----
-
 ## Introduction to expansions and substitutions
 
 Type | Explaination
