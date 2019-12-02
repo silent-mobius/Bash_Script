@@ -49,7 +49,7 @@ select word in …; do …; done    user selections
 
 ## Control flow and data processing
 
-Commands that operate on data and/or affect control flow. 
+Commands that operate on data and/or affect control flow.
 
 Command | Alt | Type
 --- | ---- | ----
@@ -77,7 +77,7 @@ shopt | set/get some bash-specific shell options | builtin
 
 ## I/O
 
-Commands for reading/parsing input, or producing/formatting output of standard streams. 
+Commands for reading/parsing input, or producing/formatting output of standard streams.
 
 Command | Alt | Type
 --- | ---- | ---
@@ -104,16 +104,15 @@ wait |  Wait for background jobs and asynchronous lists.    | builtin
 
 ---
 
-## Control flow and data processing
+## Declaration commands
 
-Commands that operate on data and/or affect control flow.
-
-Command |Alt | Type
---- | ---- | ----
-colon `;` | "true" null command.    true |  special builtin
-dot `.` |  Source external files.  source  special builtin
-false | Fail at doing nothing.  |   builtin
-continue / break | continue with or break out of loops. | special builtin
-let |   Arithmetic evaluation simple command. | builtin
-return |    Return from a function with a specified exit status. | special builtin
-[ |	The classic test simple command.    test |  builtin
+Commands that set and query attributes/types, and manipulate simple datastructures. 
+Command | Alt |     Type
+--- |   --- | ---
+declare |   Display or set shell variables or functions along with attributes.  typeset |   builtin
+export |    Display or set shell variables, also giving them the export attribute.  typeset -x |    special builtin
+eval |  Evaluate arguments as shell code.   |   special builtin
+local | Declare variables as having function local scope.   | builtin
+readonly |  Mark variables or functions as read-only.   typeset -r |    special builtin
+unset | Unset variables and functions.  |   special builtin
+shift | Shift positional parameters |special builtin
