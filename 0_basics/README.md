@@ -15,8 +15,6 @@ Hello <---> Word! | Word splitting
 
 ---
 
-# Compound commands
-
 ## Compound commands overview
 
 ### Grouping
