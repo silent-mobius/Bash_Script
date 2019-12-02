@@ -1,4 +1,5 @@
-## Process and Job control
+# Process and Job control
+
 Commands related to jobs, signals, process groups, subshells. 
 Command | 	Alt |	Type
 ---- | ---- | ---
