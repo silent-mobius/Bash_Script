@@ -1,5 +1,7 @@
 ## Declaration commands
+
 Commands that set and query attributes/types, and manipulate simple datastructures. 
+
 Command | Alt | 	Type
 --- |   --- | ---
 declare |	Display or set shell variables or functions along with attributes.	typeset |	builtin
