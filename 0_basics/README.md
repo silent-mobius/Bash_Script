@@ -19,9 +19,9 @@ Hello <---> Word! | Word splitting
 
 ### Grouping
 
-{ …; }	command grouping
+{ …; }  command grouping
 
-( … )	command grouping in a subshell
+( … )   command grouping in a subshell
 
 ### Conditionals
 
