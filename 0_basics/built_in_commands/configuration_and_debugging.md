@@ -1,4 +1,5 @@
-## Configuration and Debugging
+# Configuration and Debugging
+
 Commands that modify shell behavior, change special options, assist in debugging. 
 Command | Alt |	Type
 ---- | ---- | ----
