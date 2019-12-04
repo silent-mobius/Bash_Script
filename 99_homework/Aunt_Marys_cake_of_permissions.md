@@ -32,3 +32,7 @@ please read in shell_scripting_with_bash : pages 38-72
 
 **links**
 [Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+
+---
+
+Copy right © Alex M. Schapelle, VAIOLabs LTD.  vaiolabs.comLicense: GPLv3
