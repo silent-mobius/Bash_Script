@@ -2,20 +2,22 @@
 
 1. Read Below:
 
-- a.create a folders called "bin" and "sbin"
-- b. in bin--> create a script that will  list all processes ran by your user. should run with loop(not with top command)
-- c create a sccript that will stop previous one but won't kill the process.
-- d all the scripts before should keep logs in /var/log/script folder. validate that the folder exists.
+- a. Create a folders called "bin" and "sbin"
+- b. In bin--> create a script that will  list all processes ran by your user. should run with loop(not with top command)
+- c Create a sccript that will stop previous one but won't kill the process.
+- d All the scripts before should keep logs in /var/log/script folder. validate that the folder exists.
 
-2. in sbin --> create a script that will  list all processes ran by root user. should run with loop(not with top command)
+2. Read Below:
 
-b create a sccript that will stop previous one but won't kill the process.
+- a. In sbin --> create a script that will  list all processes ran by root user. should run with loop(not with top command)
+- b. Create a sccript that will stop previous one but won't kill the process.
 
-3. create a script in bin, that will have a functions:
-	a. to see all connected hardware.
-	b. to show all opened ports.
-	c. to show all connected users.
-	d. to show status all storage. 
-	e. to run all functions and save output in logs.
+3. Create a script in bin, that will have several functions:
 
-4. create a script that will show menu that will execute previous script. 
+- a. to see all connected hardware.
+- b. to show all opened ports.
+- c. to show all connected users.
+- d. to show status all storage. 
+- e. to run all functions and save output in logs.
+
+4. Create a script that will show menu that will execute previous script.
