@@ -1,10 +1,10 @@
 <h1>
 <center>
-Welcome to exercise
+Welcome to exercises
 </center>
 </h1>
 
-# Just names:
+## Just names: Don't Judge
 
 - [Cookie Storage](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Cookie_Storage.md)
 
