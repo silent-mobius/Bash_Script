@@ -1,15 +1,25 @@
-A) create new project in github called "looping_new_gear" and upload all scripts into it.
-1.write a script that will receive($1) your name and will print it in reverse.
-2.write a script that will receive long sentance and will print it in reverse.
-3.a.write a script that will request 2 parameters(read), time and command. the  script should notify that command should be executed at notified time (should work as clock alarm).
-3.b. please verify that you are recieving 2 paramenters
-4.create a script that will check all possible files in your home folder, and if any of those won't belong to your user, it should be changed with "chown" command.
-5. create a script that will receive file name: if it will be regular file, then print out to its data, if it will be folder then print out files in it.
-6.write a script that will receive parameter of register user, and will run until that user will login to system.
-7. write a script that will receive parameter of a transportation(car, bus...), that paramenter should be of scenario in which type of transportation will print how much it costs to buy it and how long one can hold to it.
-for example: car - costs 40000, nis can use at least for 5 years.
-8. write a script that will check what day is it today, some sort of cheer. for example: Monday - ohhh, Monday sucks.
-9. create a scrit that will request your user name, will check if user exists, then will check that user ID is between 500 to 1000. if yes, then it should print out users Id and all possible data about him. if not, then it should notify  the script user, wait 5 seconds and should close the terminal.
+# Create new project in github called "looping_new_gear" and upload all scripts into it.
+
+1. Write a script that will receive($1) your name and will print it in reverse.
+
+2. Write a script that will receive long sentance and will print it in reverse.
+
+3. Two parter:
+
+- a. Write a script that will request 2 parameters(read), time and command. the  script should notify that command should be executed at notified time (should work as clock alarm).
+- b. Please verify that you are recieving 2 paramenters
+
+4. Create a script that will check all possible files in your home folder, and if any of those won't belong to your user, it should be changed with "chown" command.
+
+5. Create a script that will receive file name: if it will be regular file, then print out to its data, if it will be folder then print out files in it.
+
+6. Write a script that will receive parameter of register user, and will run until that user will login to system.
+
+7. Write a script that will receive parameter of a transportation(car, bus...), that paramenter should be of scenario in which type of transportation will print how much it costs to buy it and how long one can hold to it. for example: car - costs 40000, nis can use at least for 5 years.
+
+8. Write a script that will check what day is it today, some sort of cheer. for example: Monday - ohhh, Monday sucks.
+
+9. Create a scrit that will request your user name, will check if user exists, then will check that user ID is between 500 to 1000. if yes, then it should print out users Id and all possible data about him. if not, then it should notify  the script user, wait 5 seconds and should close the terminal.
 
 *_Please read: _*
 
