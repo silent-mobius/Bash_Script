@@ -9,3 +9,7 @@
 *_links_*
 [start reading about bash as much as possible](wiki.bash-hackers.org)
 [please read about aglie methodology](https://en.wikipedia.org/wiki/Agile_software_development)
+
+---
+
+Copy right © Alex M. Schapelle, VAIOLabs LTD.  vaiolabs.comLicense: GPLv3
