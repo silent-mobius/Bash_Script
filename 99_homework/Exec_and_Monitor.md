@@ -21,3 +21,7 @@
 - e. to run all functions and save output in logs.
 
 1. Create a script that will show menu that will execute previous script.
+
+---
+
+Copy right © Alex M. Schapelle, VAIOLabs LTD.  vaiolabs.comLicense: GPLv3
