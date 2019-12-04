@@ -23,9 +23,10 @@
 7. create a script that will use "df" command and "for" loop will print only disks with low space.
 8. create a script that will print chess board (black/white cubes).
 
+*_Please read:_*
 
-please read in "linux_fun.pdf" chapters cp 22, 23, 24, 25.
-please also read "shell_scrpting_with_bash.pdf" till page 38.
+- "linux_fun.pdf" chapters cp 22, 23, 24, 25
+- "shell_scrpting_with_bash.pdf" till page 38.
 
 ---
 
