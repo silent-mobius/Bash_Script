@@ -3,7 +3,7 @@
 1. Read Below:
 
 - a.create a script that will scan whole os and will count amount of files that belongs to your user.
-- b add to prvious script validation - only user with your ID can run script all the others should be denied.
+- b. add to prvious script validation - only user with your ID can run script all the others should be denied.
 - c. another feature to add the script: count also all hidden files in whole file system.
 
 2. Read Below:
@@ -21,11 +21,11 @@
 
 5. Read Below:
 
-- a create a script that will ask you to which groups you would like to be added
-- b in case you already are in the group it should be discarded and you need to be notified.
-- c in case you are not in the group, it should be anounced in green color with black background that you are going to be part of the group.
-- d amount of groups provided to script should be at least 4.
-- e !!!!!!!!!!!!!!!!!!!use functions to write this task
+- a. create a script that will ask you to which groups you would like to be added
+- b. in case you already are in the group it should be discarded and you need to be notified.
+- c. in case you are not in the group, it should be anounced in green color with black background that you are going to be part of the group.
+- d. amount of groups provided to script should be at least 4.
+- e. !!!!!!!!!!!!!!!!!!!use functions to write this task
 
 please read in linux_fun - chapters: 26 ( yes again), 27-32
 please read in shell_scripting_with_bash : pages 38-72
