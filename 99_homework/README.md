@@ -14,7 +14,7 @@ Welcome to exercise
 
 - [RegexUp](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/RegexUp.md)
 
-- [Shell Check]()
+- [Shell Check](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Shell_Check.md)
 
 - [Shell Per Mission](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Shell_Per_Mission.md)
 
