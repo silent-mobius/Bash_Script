@@ -8,13 +8,13 @@
 - d. all functions above must run in function called main.
 - e. main function may run only if root user is running it.
 
-2. write a script that will :
+1. write a script that will :
 
 - a. print out all interfaces on your computer and ip of that interface.
 - b. if the interface lacks ip address - create a function that will guide you though the ip configuration steps.(set ip - mandatory, set netmask - mandatory, set gateway- mandatory, set dns - not mandatory)
 - c. write a function that will check what type of linux disto you are running.
 
-3. write a script that:
+1. write a script that:
 
 - a. has a function that lists all block devices.
 - b. has a function that lists all network devices.
@@ -29,3 +29,8 @@
 [theunixschool](http://www.theunixschool.com/)
 [awk tutorial](https://www.tutorialspoint.com/awk/)
 [sed tutorual](https://www.tutorialspoint.com/sed/)
+
+
+---
+
+Copy right © Alex M. Schapelle, VAIOLabs LTD.  vaiolabs.comLicense: GPLv3
