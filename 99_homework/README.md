@@ -6,15 +6,15 @@ Welcome to exercises
 
 ## Just names: Don't Judge
 
-- [Cookie Storage](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Cookie_Storage.md)
+- [Cookie Storage](../99_homework/Cookie_Storage.md)
 
-- [Aunt Mary's cake of permissions](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Aunt_Marys_cake_of_permissions.md)
+- [Aunt Mary's cake of permissions](../99_homework/Aunt_Marys_cake_of_permissions.md)
 
-- [Exec and monitor](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Merrie_Array_Melodies.md)
+- [Exec and monitor](../99_homework/Exec_and_Monitor.md)
 
-- [RegexUp](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/RegexUp.md)
+- [RegexUp](../99_homework/RegexUp.md)
 
-- [Shell Check](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Shell_Check.md)
+- [Shell Check](../99_homework/Shell_Check.md)
 
 - [Shell Per Mission](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Shell_Per_Mission.md)
 
