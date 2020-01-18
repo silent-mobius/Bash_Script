@@ -1,6 +1,13 @@
-#!/usr/bin/env bsh
+#!/usr/bin/env bash
 
-#declaring array
+########################################################################
+#Created by: Pushtakio
+#Purpose: Exercise
+#Date: 01.01.2020
+#version: 1.0.0
+########################################################################
+
+
 echo '
 Fruits=( "apple" "banana" "orange")
 '
