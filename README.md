@@ -1,6 +1,6 @@
 # Bash_Script
 
-## Examples of bash script syntax
+## Examples of bash script syntax and how to learn them
 
 Table of content:
 
@@ -12,3 +12,5 @@ Table of content:
 - [Functions](5_shell_funcs/README.md)
 - [Graphics - Terminal](6_tui_gui/tui/README.md)
 - [Graphics - Desktop](6_tui_gui/gui/README.md)
+- [Class Tasks](99_tasks/README.md)
+- [Home Work](99_homework/README.md)
