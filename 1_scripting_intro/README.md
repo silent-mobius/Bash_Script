@@ -16,3 +16,5 @@
 ## easier to seek error and such
 
 [Debugging your script](debug.sh)
+
+&copy; All right reserved to Alex M. Schapelle and distributed under GPLv3 License as attached to project.

@@ -116,3 +116,7 @@ local | Declare variables as having function local scope.   | builtin
 readonly |  Mark variables or functions as read-only.   typeset -r |    special builtin
 unset | Unset variables and functions.  |   special builtin
 shift | Shift positional parameters |special builtin
+
+
+---
+&copy; All right reserved to Alex M. Schapelle and distributed under GPLv3 License as attached to project.

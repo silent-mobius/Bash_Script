@@ -21,3 +21,7 @@ Welcome to exercises
 - [Looping New Gear](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Looping_New_Gear.md)
 
 - [Merrie Array Melodies](https://github.com/silent-mobius/Bash_Script/blob/master/99_homework/Merrie_Array_Melodies.md)
+
+
+---
+&copy; All right reserved to Alex M. Schapelle and distributed under GPLv3 License as attached to project.

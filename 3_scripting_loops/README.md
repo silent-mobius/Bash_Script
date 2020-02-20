@@ -40,3 +40,8 @@ Because  let  and  ((...))  are  built  in  to  the  shell,  they  haveaccess to
 ### For
 
 ### While
+
+
+
+---
+&copy; All right reserved to Alex M. Schapelle and distributed under GPLv3 License as attached to project.

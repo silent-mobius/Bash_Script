@@ -20,3 +20,6 @@
 input is usually can be provided with `read` command:
 
 [for example](input.sh) or [another](input2.sh)
+
+---
+&copy; All right reserved to Alex M. Schapelle and distributed under GPLv3 License as attached to project.
