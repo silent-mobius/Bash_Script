@@ -10,5 +10,5 @@ Table of content:
 - [Conditions and Loops](3_scripting_loops/README.md)
 - [Arrays](4_arrays/README.md)
 - [Functions](5_shell_funcs/README.md)
-- [Graphics - Terminal](6_tui_gui/README.md)
-- [Graphics - Desktop](6_tui_gui/README.md)
+- [Graphics - Terminal](6_tui_gui/tui/README.md)
+- [Graphics - Desktop](6_tui_gui/gui/README.md)
