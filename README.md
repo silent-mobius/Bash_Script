@@ -14,3 +14,7 @@ Table of content:
 - [Graphics - Desktop](6_tui_gui/gui/README.md)
 - [Class Tasks](99_tasks/README.md)
 - [Home Work](99_homework/README.md)
+
+
+---
+&copy; All right reserved to Alex M. Schapelle and distributed under GPLv3 License as attached to project.
